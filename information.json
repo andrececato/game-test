@@ -1,0 +1,15 @@
+{
+    "banners": [
+        {
+            "name": "Suzuki",
+            "type": "Limited",
+            "max_p": 90
+        },
+        {
+            "name": "Todori",
+            "type": "Limited",
+            "max_p": 90
+        }
+    ]
+
+}
